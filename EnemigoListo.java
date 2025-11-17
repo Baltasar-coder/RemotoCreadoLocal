@@ -1,1 +1,2 @@
-este enemigo es muy avispado
+Este enemigo es muy avispado
+Va de cabeza a por el player
